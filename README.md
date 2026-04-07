@@ -187,8 +187,5 @@ npx skills add alchaincyf/chen-xiao-qun-perspective
 
 ## 🏷️ License
 
-[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-
-本 Skill 由 [女娲 · Skill造人术](https://github.com/alchaincyf/nuwa-skill) 生成。
-
-创建者：[花叔](https://x.com/AlchainHust)
+[CC BY 4.0]
+创建者 wanghu
